@@ -1,0 +1,14 @@
+pomodoro-task-manager README
+==================
+
+Getting Started
+---------------
+
+- cd <directory containing this file>
+
+- $venv/bin/python setup.py develop
+
+- $venv/bin/initialize_pomodoro-task-manager_db development.ini
+
+- $venv/bin/pserve development.ini
+

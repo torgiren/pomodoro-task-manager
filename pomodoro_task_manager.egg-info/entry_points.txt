@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = pomodorotaskmanager:main
+      [console_scripts]
+      initialize_pomodoro-task-manager_db = pomodorotaskmanager.scripts.initializedb:main
+      
