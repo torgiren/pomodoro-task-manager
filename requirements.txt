@@ -1,0 +1,23 @@
+Chameleon==2.11
+Jinja2==2.7
+Mako==0.8.1
+MarkupSafe==0.18
+PasteDeploy==1.5.0
+Pygments==1.6
+SQLAlchemy==0.8.2
+WebOb==1.2.3
+jedi==0.6.0
+-e git+git@github.com:torgiren/pomodoro-task-manager.git@504748c26ff010d39ef49405676b40c7ec4af1fc#egg=pomodoro_task_manager-dev
+pyramid==1.4.2
+pyramid-debugtoolbar==1.0.6
+pyramid-jinja2==1.6
+pyramid-tm==0.7
+repoze.lru==0.6
+transaction==1.4.1
+translationstring==1.1
+venusian==1.0a8
+waitress==0.8.5
+wsgiref==0.1.2
+zope.deprecation==4.0.2
+zope.interface==4.0.5
+zope.sqlalchemy==0.7.2
